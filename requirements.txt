@@ -1,0 +1,4 @@
+Flask==3.0.3
+greenlet==3.0.3
+gevent==24.2.1
+gunicorn==21.2.0
